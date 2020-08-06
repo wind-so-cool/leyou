@@ -12,8 +12,8 @@ spring:
     host: 192.168.253.128
 ly:
   sms:
-    accessKeyId: LTAI4G3mB3Yq3yFoTdXHm4Ut #你自己的acessKeyId
-    accessKeySecret: aPZehPjOEydDvR19KHwbbjrsID3iBI #你自己的accessKeySecret
-    signName: 乐优商城 #签名名称
-    verifyCodeTemplate: SMS_196659672 #模板名称
+    accessKeyId: mdmy #你自己的acessKeyId
+    accessKeySecret: mdmy #你自己的accessKeySecret
+    signName: mdmy #签名名称
+    verifyCodeTemplate: mdmy #模板名称
 
